@@ -1,0 +1,6 @@
+{
+  "name": "Saved",
+  "description": "A private, 100% local note-taking app inspired by Telegram Saved Messages with rich media, voice notes, and timeline chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Drop shadow for the icon -->
+    <path
+        android:fillColor="#22000000"
+        android:pathData="M39,26 L69,26 C72.3,26 75,28.7 75,32 L75,85.5 C75,87.6 72.6,88.9 70.8,87.7 L54,75.5 L37.2,87.7 C35.4,88.9 33,87.6 33,85.5 L33,32 C33,28.7 35.7,26 39,26 Z" />
+    <!-- Main Bookmark shape in crisp white -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,24 L68,24 C71.3,24 74,26.7 74,30 L74,83.5 C74,85.6 71.6,86.9 69.8,85.7 L53,73.5 L36.2,85.7 C34.4,86.9 32,85.6 32,83.5 L32,30 C32,26.7 34.7,24 38,24 Z" />
+    <!-- Saved / Star badge in the center of the bookmark -->
+    <path
+        android:fillColor="#229ED9"
+        android:pathData="M53,37 L55.5,43.2 L62.2,43.7 L57.1,48.1 L58.7,54.7 L53,51.1 L47.3,54.7 L48.9,48.1 L43.8,43.7 L50.5,43.2 Z" />
+</vector>
